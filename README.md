@@ -1,5 +1,5 @@
 # Expanding-Cards
-Expanding Cards transition is a CSS and JS Animation template website with unique transitions for pictures. It can be used as a picture album sider in your projects.
+Expanding Cards transition is a CSS and JS Animation template website with unique transitions for pictures. It can be used as a picture album sider in your projects. It is responsive on any screen devices.
 <hr>
 
 ## Working App can be found here
